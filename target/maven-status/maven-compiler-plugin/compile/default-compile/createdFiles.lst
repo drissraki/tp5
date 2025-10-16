@@ -1,0 +1,6 @@
+dao\DaoImpl.class
+metier\MetierImpl.class
+dao\DaoImpl2.class
+dao\IDao.class
+metier\IMetier.class
+presentation\Presentation2.class
